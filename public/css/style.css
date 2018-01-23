@@ -1,0 +1,17 @@
+.right{
+  float: right;
+  padding-right: 10px;
+}
+.right li a{
+  color: black;
+}
+li{
+  display: inline-block;
+  color: black;
+}
+.container{
+  padding-top: 20px;
+}
+.btn-success{
+  margin-top: 20px;
+}
